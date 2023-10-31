@@ -1,0 +1,1 @@
+This is an introductory project to become familiar with Flask and it's documentary.
